@@ -1,109 +1,113 @@
 <div align="center">
 
-# Harsh Sharma  
-### (aka grim7012)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Harshita%20Chelani%20(grim7012)&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
-**Real-Time Systems Engineer • Full Stack Developer • Product Builder**
+### Full Stack Engineer • Real-Time Systems • Data & Analytics
 
-Building scalable multiplayer platforms, real-time analytics systems, and modular backend architectures.
+Designing scalable backend systems, intuitive frontends, and real-time data platforms.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://grim7012.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grim7012)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh@grim7012.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://grim7012.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grim7012)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh@grim7012.dev)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 Engineering Focus
 
-I design and build **production-grade systems**, not just applications.
+I build complete systems — from responsive user interfaces to scalable backend architectures and real-time analytics pipelines.
 
-My focus areas:
+My work combines:
 
-- Real-time WebSocket architectures  
-- Scalable backend systems  
-- Event-driven microservices  
-- Secure wallet & transaction systems  
-- Modular product design  
-
-I think in systems, optimize for scale, and build for long-term extensibility.
+- ⚡ Low-latency real-time backend systems  
+- 🎨 Clean, responsive frontend & UI design  
+- 🧩 Modular & scalable architecture  
+- 🔄 Event-driven system design  
+- 📊 Data analytics & visualization systems  
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Flagship Projects
 
-### 🎮 NovaPlay — Real-Time Multiplayer Platform
-Scalable multiplayer infrastructure with low-latency architecture.
+## 🎮 Lie to Survive — Real-Time Multiplayer Platform
+A WebSocket-powered multiplayer game infrastructure.
 
-**Highlights:**
-- WebSocket-based real-time engine
-- Redis-powered state management
-- Wallet & transaction flow
-- Gamification & leaderboard system
-- Event-driven backend architecture
+**Core Highlights:**
+- Socket.IO real-time event engine  
+- Optimized session handling  
+- Modular backend structure  
+- Responsive frontend game interface  
 
-[View Repository](https://github.com/grim7012/novaplay)
-
----
-
-### 📊 AnalytixLive — Real-Time Ad Analytics System
-Live analytics infrastructure processing high-volume event streams.
-
-**Highlights:**
-- Real-time dashboard updates via WebSockets
-- Event ingestion & streaming pipeline
-- Admin analytics panel
-- Modular SDK-ready backend
-
-[View Repository](https://github.com/grim7012/analytixlive)
+[Explore Project →](https://github.com/grim7012/lie-to-survive)
 
 ---
 
-### 🎨 ArtChain — Blockchain Digital Ownership System
-Blockchain-based digital artwork ownership tracking.
+## 📊 Journal Publishing Platform — Real-Time Ad Analytics
+Content publishing system integrated with live ad tracking & analytics.
 
-**Highlights:**
-- Immutable asset tracking
-- Ownership verification model
-- Future AI art integration roadmap
+**Core Highlights:**
+- Real-time impression tracking  
+- Event streaming architecture  
+- Analytics dashboard UI  
+- Admin reporting system  
 
-[View Repository](https://github.com/grim7012/artchain)
-
----
-
-### 🌾 AgriSense — ML Agriculture Platform
-Data-driven crop and fertilizer optimization system.
-
-**Highlights:**
-- Crop recommendation engine
-- Fertilizer optimization model
-- Disease detection pipeline
-
-[View Repository](https://github.com/grim7012/agrisense)
+[Explore Project →](https://github.com/grim7012/jhssi-journal)
 
 ---
 
-## ⚙️ Tech Stack
+# 📈 Data & Analytics Projects
 
-### Core Technologies
-TypeScript • JavaScript • Node.js • React • Next.js • Socket.IO  
+## 📊 Ad Performance Analytics Dashboard
+Data-driven dashboard for monitoring ad metrics.
 
-### Backend & Infrastructure
-Express • Redis • MongoDB • PostgreSQL • Prisma • Docker • Nginx  
-
-### Architecture
-Event-Driven Systems • Microservices • Real-Time Systems • Distributed Thinking  
+- Data cleaning & transformation  
+- KPI visualization  
+- Interactive charts & reporting  
+- Real-time updates integration  
 
 ---
 
-## 📈 GitHub Analytics
+## 📉 Business Insights & Reporting Projects
+Exploratory data analysis and insight generation using structured datasets.
+
+- Trend analysis  
+- Dashboard creation  
+- Data storytelling  
+- Performance metric optimization  
+
+---
+
+# 🛠 Tech Stack
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=grim7012&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=grim7012&hide_border=true" />
+
+### Frontend
+React • Next.js • TypeScript • Tailwind CSS  
+
+### Backend
+Node.js • Express • Socket.IO  
+
+### Database & ORM
+MongoDB • Prisma  
+
+### Data & Analytics
+SQL • Data Visualization • Dashboard Design  
+
+### Architecture
+Event-Driven Systems • Modular Backend • Scalable Design  
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=grim7012&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=grim7012&hide_border=true" />
 </div>
 
 <br/>
@@ -114,16 +118,10 @@ Event-Driven Systems • Microservices • Real-Time Systems • Distributed Thi
 
 ---
 
-## 📌 Current Focus
+# 🎯 Current Focus
 
-- Scaling real-time multiplayer systems  
-- Deepening distributed systems knowledge  
-- Building production-ready backend architectures  
+- Scaling multi-role application architectures  
+- Strengthening distributed systems knowledge  
+- Building data-driven product platforms  
 
 ---
-
-<div align="center">
-
-⭐ If you’re building something ambitious, let’s connect.
-
-</div>
