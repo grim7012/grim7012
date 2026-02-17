@@ -1,45 +1,129 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh;aka+grim7012;System+Architect;Real-Time+Engineer;Code+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" />
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://grim7012.dev)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grim7012)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/grim7012)
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/grim7012)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh@grim7012.dev)
+
+# Harsh Sharma  
+### (aka grim7012)
+
+**Real-Time Systems Engineer • Full Stack Developer • Product Builder**
+
+Building scalable multiplayer platforms, real-time analytics systems, and modular backend architectures.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://grim7012.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grim7012)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh@grim7012.dev)
+
 </div>
 
 ---
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+## 🧠 About Me
 
-class Grim7012:
-    """Full Stack Developer & System Architect"""
-    
-    def __init__(self):
-        self.name = "Harsh"
-        self.alias = "grim7012"
-        self.location = "📍 Everywhere (thanks to the cloud)"
-        self.current_focus = "Building scalable multiplayer platforms"
-        self.motto = "I don't just build apps — I engineer ecosystems"
-    
-    def get_daily_routine(self):
-        return {
-            "🌅 Morning": "Coffee + System Design",
-            "☀️ Day": "Coding real-time architectures",
-            "🌙 Night": "Debugging & optimizing",
-            "⚡ 24/7": "Thinking in WebSockets"
-        }
-    
-    def current_status(self):
-        return {
-            "🔭 Working on": "Real-Time Multiplayer Engine",
-            "🌱 Learning": "Distributed Systems & Blockchain",
-            "👯 Looking to collaborate": "Open Source Performance Tools",
-            "💬 Ask me about": "WebSockets, Scalability, or Memes",
-            "⚡ Fun fact": "My code runs faster than my jokes"
-        }
+I design and build **production-grade systems**, not just applications.
 
-me = Grim7012()
-print(f"🚀 {me.name} ({me.alias}) - {me.motto}")
+My focus areas:
+
+- Real-time WebSocket architectures  
+- Scalable backend systems  
+- Event-driven microservices  
+- Secure wallet & transaction systems  
+- Modular product design  
+
+I think in systems, optimize for scale, and build for long-term extensibility.
+
+---
+
+## 🚀 Featured Projects
+
+### 🎮 NovaPlay — Real-Time Multiplayer Platform
+Scalable multiplayer infrastructure with low-latency architecture.
+
+**Highlights:**
+- WebSocket-based real-time engine
+- Redis-powered state management
+- Wallet & transaction flow
+- Gamification & leaderboard system
+- Event-driven backend architecture
+
+[View Repository](https://github.com/grim7012/novaplay)
+
+---
+
+### 📊 AnalytixLive — Real-Time Ad Analytics System
+Live analytics infrastructure processing high-volume event streams.
+
+**Highlights:**
+- Real-time dashboard updates via WebSockets
+- Event ingestion & streaming pipeline
+- Admin analytics panel
+- Modular SDK-ready backend
+
+[View Repository](https://github.com/grim7012/analytixlive)
+
+---
+
+### 🎨 ArtChain — Blockchain Digital Ownership System
+Blockchain-based digital artwork ownership tracking.
+
+**Highlights:**
+- Immutable asset tracking
+- Ownership verification model
+- Future AI art integration roadmap
+
+[View Repository](https://github.com/grim7012/artchain)
+
+---
+
+### 🌾 AgriSense — ML Agriculture Platform
+Data-driven crop and fertilizer optimization system.
+
+**Highlights:**
+- Crop recommendation engine
+- Fertilizer optimization model
+- Disease detection pipeline
+
+[View Repository](https://github.com/grim7012/agrisense)
+
+---
+
+## ⚙️ Tech Stack
+
+### Core Technologies
+TypeScript • JavaScript • Node.js • React • Next.js • Socket.IO  
+
+### Backend & Infrastructure
+Express • Redis • MongoDB • PostgreSQL • Prisma • Docker • Nginx  
+
+### Architecture
+Event-Driven Systems • Microservices • Real-Time Systems • Distributed Thinking  
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=grim7012&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=grim7012&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=grim7012&hide_border=true&area=true" />
+</div>
+
+---
+
+## 📌 Current Focus
+
+- Scaling real-time multiplayer systems  
+- Deepening distributed systems knowledge  
+- Building production-ready backend architectures  
+
+---
+
+<div align="center">
+
+⭐ If you’re building something ambitious, let’s connect.
+
+</div>
