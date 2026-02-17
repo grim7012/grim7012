@@ -62,7 +62,7 @@ I'm a **Full Stack Developer** and **Systems Architect** passionate about buildi
 
 ## 🏗️ **System Architecture Philosophy**
 
-```javascript
+javascript
 const architecturePrinciples = {
   scalability: "Design for 10x growth from day one",
   concurrency: "Handle thousands of simultaneous connections gracefully",
@@ -186,4 +186,6 @@ https://komarev.com/ghpvc/?username=grim&color=00ffaa&style=flat-square
 
 ⭐ From grim
 
-</div> ```
+</div> 
+
+
