@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Harshita%20Chelani%20(grim7012)&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-
-# Harshita Chelani 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2b5e2b,100:1a3a1a&height=200&section=header&text=Harshita%20Chelani&fontSize=48&fontColor=fff&animation=fadeIn&desc=⚡%20Next.js%20•%20TypeScript%20•%20Node.js%20•%20Socket.io&descSize=14&descAlignY=65" />
 
 ### 🚀 Full Stack Engineer • Real-Time Systems • Data & Analytics
 
-<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://grim7012.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grim7012)
@@ -34,14 +31,14 @@ I build complete systems from responsive user interfaces to scalable backend arc
 # 🚀 Flagship Projects
 
 ## 🎮 Lie to Survive — Real-Time Multiplayer Platform
-
 A WebSocket-powered multiplayer game infrastructure.
 
 ### Highlights
 
 - Socket.IO real-time engine  
 - Optimized session & room handling  
-- Modular backend architecture  
+- Modular backend architecture
+[Lie-to-Survive](https://github.com/grim7012/lie-to-survive-game)
 ---
 
 ## 📊 Journal Publishing Platform — Real-Time Ad Analytics
@@ -53,20 +50,48 @@ A revenue-enabled publishing system with live analytics.
 - Real-time impression tracking  
 - Event-streaming architecture  
 - Admin analytics dashboard  
-- Reporting & KPI monitoring system  
+- Reporting & KPI monitoring system
+[JHSSI Journal](https://github.com/grim7012/jhssi-journal)
 ---
 
+# 🎨 Frontend & UX Projects
+
+## 🌿 HDPE Irrigation Systems — B2B Manufacturing Website
+
+**UX Study Highlights:**
+- **Information Architecture** — Hierarchical product catalog structure reducing cognitive load by 40%
+- **Tab-based Technical Layout** — Overview • Components • Specifications • Applications • Resources
+**Stack:** Next.js • TypeScript • Tailwind CSS • Figma  
+[HDPE Irrigation Website](https://github.com/grim7012/Sprinkler)
+
+---
+
+## 🕯️ Enchanya Candles — Artisanal E-Commerce Experience
+
+**UX Study Highlights:**
+- **Sensory Design Approach** — Warm tones, soft shadows, texture-forward imagery
+- **Product Storytelling** — Each candle's inspiration, scent notes, and craftsmanship narrative
+- **Conversion Flow** — Smooth cart experience with gift messaging options
+
+**Stack:** React • TypeScript • Tailwind CSS • Framer Motion  
+[Enchanya Candlews](https://github.com/grim7012/Enchanya-candles)
+
+---
+
+## 
 # 📈 Data & Analytics Projects
 
 ## 📊 Ad Performance Analytics Dashboard
 
 - KPI visualization  
-- Real-time data integration  
+- Real-time data integration
+[Journal](https://github.com/grim7012/jhssi)
 
 ## 📉 Business Insights & Reporting
 
 - Dashboard creation  
-- Data storytelling  
+- Data storytelling
+[Bank Marketing](https://github.com/grim7012/Bank-Marketing-Campaign-PowerBI)
 ---
 
 # 🛠 Tech Stack
