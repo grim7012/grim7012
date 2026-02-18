@@ -1,7 +1,9 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2b5e2b,100:1a3a1a&height=200&section=header&text=Harshita%20Chelani&fontSize=48&fontColor=fff&animation=fadeIn&desc=⚡%20Next.js%20•%20TypeScript%20•%20Node.js%20•%20Socket.io&descSize=14&descAlignY=65" />
-
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0088AA&height=200&section=header&text=Harshita%20Chelani&fontSize=50&fontColor=fff&animation=twinkling" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=aka+grim7012;Full+Stack+Engineer;Real-Time+Systems;Data+%26+Analytics" alt="Typing SVG" />
+  
 ### 🚀 Full Stack Engineer • Real-Time Systems • Data & Analytics
 
 
@@ -9,9 +11,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/grim7012)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh@grim7012.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grim7012)
-
+ 
 </div>
-
 ---
 
 ## 🧠 Engineering Philosophy
@@ -39,6 +40,7 @@ A WebSocket-powered multiplayer game infrastructure.
 - Optimized session & room handling  
 - Modular backend architecture
 [Lie-to-Survive](https://github.com/grim7012/lie-to-survive-game)
+[Live](https://lie-to-survive-game.vercel.app/)
 ---
 
 ## 📊 Journal Publishing Platform — Real-Time Ad Analytics
@@ -52,6 +54,7 @@ A revenue-enabled publishing system with live analytics.
 - Admin analytics dashboard  
 - Reporting & KPI monitoring system
 [JHSSI Journal](https://github.com/grim7012/jhssi-journal)
+[Live](https://jhssi.com/)
 ---
 
 # 🎨 Frontend & UX Projects
