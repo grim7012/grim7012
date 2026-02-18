@@ -1,8 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0088AA&height=200&section=header&text=Harshita%20Chelani&fontSize=50&fontColor=fff&animation=twinkling" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=aka+grim7012;Full+Stack+Engineer;Real-Time+Systems;Data+%26+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hi,+I'm+Harshita+Chelani;aka+grim7012" alt="Typing SVG" />
   
 ### 🚀 Full Stack Engineer • Real-Time Systems • Data & Analytics
 
@@ -13,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grim7012)
  
 </div>
----
+
 
 ## 🧠 Engineering Philosophy
 
@@ -39,8 +37,8 @@ A WebSocket-powered multiplayer game infrastructure.
 - Socket.IO real-time engine  
 - Optimized session & room handling  
 - Modular backend architecture
-[Lie-to-Survive](https://github.com/grim7012/lie-to-survive-game)
-[Live](https://lie-to-survive-game.vercel.app/)
+- [Lie-to-Survive](https://github.com/grim7012/lie-to-survive-game)
+- [Live](https://lie-to-survive-game.vercel.app/)
 ---
 
 ## 📊 Journal Publishing Platform — Real-Time Ad Analytics
@@ -53,8 +51,8 @@ A revenue-enabled publishing system with live analytics.
 - Event-streaming architecture  
 - Admin analytics dashboard  
 - Reporting & KPI monitoring system
-[JHSSI Journal](https://github.com/grim7012/jhssi-journal)
-[Live](https://jhssi.com/)
+- [JHSSI Journal](https://github.com/grim7012/jhssi-journal)
+- [Live](https://jhssi.com/)
 ---
 
 # 🎨 Frontend & UX Projects
@@ -64,8 +62,8 @@ A revenue-enabled publishing system with live analytics.
 **UX Study Highlights:**
 - **Information Architecture** — Hierarchical product catalog structure reducing cognitive load by 40%
 - **Tab-based Technical Layout** — Overview • Components • Specifications • Applications • Resources
-**Stack:** Next.js • TypeScript • Tailwind CSS • Figma  
-[HDPE Irrigation Website](https://github.com/grim7012/Sprinkler)
+- **Stack:** Next.js • TypeScript • Tailwind CSS • Figma
+- [HDPE Irrigation Website](https://github.com/grim7012/Sprinkler)
 
 ---
 
@@ -75,9 +73,8 @@ A revenue-enabled publishing system with live analytics.
 - **Sensory Design Approach** — Warm tones, soft shadows, texture-forward imagery
 - **Product Storytelling** — Each candle's inspiration, scent notes, and craftsmanship narrative
 - **Conversion Flow** — Smooth cart experience with gift messaging options
-
-**Stack:** React • TypeScript • Tailwind CSS • Framer Motion  
-[Enchanya Candlews](https://github.com/grim7012/Enchanya-candles)
+- **Stack:** React • TypeScript • Tailwind CSS • Framer Motion
+- [Enchanya Candlews](https://github.com/grim7012/Enchanya-candles)
 
 ---
 
@@ -88,13 +85,13 @@ A revenue-enabled publishing system with live analytics.
 
 - KPI visualization  
 - Real-time data integration
-[Journal](https://github.com/grim7012/jhssi)
+- [Journal](https://github.com/grim7012/jhssi)
 
 ## 📉 Business Insights & Reporting
 
 - Dashboard creation  
 - Data storytelling
-[Bank Marketing](https://github.com/grim7012/Bank-Marketing-Campaign-PowerBI)
+- [Bank Marketing](https://github.com/grim7012/Bank-Marketing-Campaign-PowerBI)
 ---
 
 # 🛠 Tech Stack
@@ -159,15 +156,11 @@ A revenue-enabled publishing system with live analytics.
 <div align="center">
 
 📧 harshch002@gmail.com  
-🔗 LinkedIn  
-💻 GitHub  
-
-<br/>
+🔗 [Linkedin](https://www.linkedin.com/in/harshita-chelani-8a92a2272/)  
+💻 [GitHub](https://github.com/grim7012)  
 
 "Available for freelance, collaboration, or just to argue about the best code editor."
-
-<br/><br/>
-
+<br/>
 ![Followers](https://img.shields.io/github/followers/grim7012?style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=grim7012&color=blue&style=flat-square)
 
