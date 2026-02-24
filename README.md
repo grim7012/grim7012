@@ -11,10 +11,6 @@
  
 </div>
 
-## 🧠 Engineering Philosophy
-
-I build complete systems from responsive user interfaces to scalable backend architectures and real-time analytics pipelines.
-
 ### What I Actually Do
 
 - ⚡ Build low-latency real-time backend systems  
