@@ -1,7 +1,7 @@
 <div align="center">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hi,+I'm+Harshita+Chelani;aka+grim7012" alt="Typing SVG" />
-  
+
 ### 🚀 Full Stack Engineer • Real-Time Systems • Data & Analytics
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://grim7012.dev)
